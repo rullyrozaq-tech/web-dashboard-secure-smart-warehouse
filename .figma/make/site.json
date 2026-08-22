@@ -1,0 +1,10 @@
+{
+  "description": "Manage your warehouse efficiently with real-time stock tracking, security monitoring, and streamlined receiving and transfer processes in a secure IoT environment.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
